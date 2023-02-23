@@ -698,3 +698,16 @@ svg {
   }
 }
 
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card_images{
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+}
+
